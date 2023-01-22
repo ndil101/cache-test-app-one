@@ -9,7 +9,7 @@ If this error occurs:
 run the following command on git bash to fix it:
 
 ```shell
-git config --global core.autocrlf false
+git config core.autocrlf false
 ```
 
 To start the app run:
