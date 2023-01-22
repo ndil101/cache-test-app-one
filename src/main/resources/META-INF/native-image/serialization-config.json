@@ -1,0 +1,14 @@
+{
+  "types":[
+    {
+      "name":"com.test.testappone.MyObject"
+    },
+    {
+      "name":"java.lang.String"
+    }
+  ],
+  "lambdaCapturingTypes":[
+  ],
+  "proxies":[
+  ]
+}
